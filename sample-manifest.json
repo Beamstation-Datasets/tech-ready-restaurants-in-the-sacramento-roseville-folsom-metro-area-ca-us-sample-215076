@@ -1,0 +1,12 @@
+{
+  "export_job_id": "65e341bb-e1d3-4bcd-b1e8-f591f10eba3d",
+  "id_short": 215076,
+  "published_at": "2026-04-11T07:08:43Z",
+  "repo_name": "tech-ready-restaurants-in-the-sacramento-roseville-folsom-metro-area-ca-us-sample-215076",
+  "sample_asset_name": "beamstation_215076_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/215076/beamstation_215076_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "813bd0a9658e1c2d70ab611f1b0d590f301d2e72fe607796f4a1461306eb2bb6",
+  "sample_size_bytes": 19931,
+  "total_records": 10
+}
