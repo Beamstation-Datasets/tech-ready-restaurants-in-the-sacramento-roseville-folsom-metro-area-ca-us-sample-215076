@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Sacramento-Roseville-Folsom Metro Area, CA, US",
+  "export_job_id": "65e341bb-e1d3-4bcd-b1e8-f591f10eba3d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 215076,
+  "location_name": "Sacramento-Roseville-Folsom, CA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-sacramento-roseville-folsom-metro-area-ca-us-sample-215076",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/215076/beamstation_215076_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 1,
+  "sample_sha256": "813bd0a9658e1c2d70ab611f1b0d590f301d2e72fe607796f4a1461306eb2bb6",
+  "sample_size_bytes": 19931,
+  "total_records": 10,
+  "updated_at": "2026-04-08T07:54:16.608657+00:00"
+}
