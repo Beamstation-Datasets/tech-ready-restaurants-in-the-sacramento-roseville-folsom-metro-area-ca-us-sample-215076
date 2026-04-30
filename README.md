@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Sacramento-Roseville-Folsom Metro Area, CA, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 3 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `215076` |
 | Location | Sacramento-Roseville-Folsom, CA |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-22T19:09:29.980769+00:00 |
+| Full dataset size | 33 records |
+| Free sample size | 3 records (9.09%) |
+| Last export | 2026-04-29T18:19:06.256498+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-sacramento-roseville-folsom-metro-area-ca-us-sample-215076/releases/download/sample-latest/beamstation_215076_restaurants-us-sacramentorosevillefolsomca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
